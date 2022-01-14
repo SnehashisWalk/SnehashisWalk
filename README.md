@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Snehashis Lenka</h1>
-<h3 align="center">A passionate and an inquisitive developer, interested in web development, Android app development and machine learning.</h3>
+<h3 align="center">A passionate and inquisitive developer, interested in web development, Android app development and machine learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehashiswalk&label=Profile%20views&color=0e75b6&style=flat" alt="snehashiswalk" /> </p>
 
