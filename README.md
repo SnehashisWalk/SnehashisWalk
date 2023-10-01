@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Snehashis Lenka</h1>
-<h3 align="center">A passionate and inquisitive developer, interested in web development, Android app development and machine learning.</h3>
+<h3 align="center">A passionate and inquisitive developer, interested in web development, and machine learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehashiswalk&label=Profile%20views&color=0e75b6&style=flat" alt="snehashiswalk" /> </p>
 
@@ -9,11 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://www.snehashislenka.com/](https://www.snehashislenka.com/)
 
-- 📝 I regularly write articles on [https://www.therecompiler.com/](https://www.therecompiler.com/)
-
 - 💬 Ask me about **React, Javascript, Node**
 
-- 📫 How to reach me **slenka321@gmail.com**
+- 📫 How to reach me **lenka.s@northeastern.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
