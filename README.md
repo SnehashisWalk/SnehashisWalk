@@ -16,6 +16,15 @@
 <a href="https://www.linkedin.com/in/snehashis-lenka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="snehashislenka321" height="30" width="40" /></a>
 </p>
 
+<h3>Skills</h3>
+<p>
+  <strong>Languages:</strong> Python, Java, JavaScript, TypeScript, Scala, C++
+  <strong>Databases:</strong> SQL (MySQL, PostgreSQL), NoSQL (MongoDB, DynamoDB, Cassandra)
+  <strong>Cloud:</strong> AWS (RDS, EC2, Glue, S3, API Gateway, Lambda, ECS, EKS, SNS, SQS, Step Function), GCP (BigQuery, Dataproc, GKE)
+  <strong>Backend & Data Engineering:</strong> FastAPI, Django, Spring, Spring Boot, Databricks, Terraform, Snowflake, Apache Spark, Hive, Hadoop,
+  Tableau, Power BI, PySpark, Kafka, Redis, Presto, Pandas, Docker, Kubernetes, dbt, Git, Airflow, Jenkins, Pytest, Shell scripts, Linux
+</p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snehashiswalk&show_icons=true&locale=en&layout=compact" alt="snehashiswalk" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snehashiswalk&show_icons=true&locale=en" alt="snehashiswalk" /></p>
