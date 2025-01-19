@@ -18,9 +18,9 @@
 
 <h3>Skills</h3>
 <p>
-  <strong>Languages:</strong> Python, Java, JavaScript, TypeScript, Scala, C++
-  <strong>Databases:</strong> SQL (MySQL, PostgreSQL), NoSQL (MongoDB, DynamoDB, Cassandra)
-  <strong>Cloud:</strong> AWS (RDS, EC2, Glue, S3, API Gateway, Lambda, ECS, EKS, SNS, SQS, Step Function), GCP (BigQuery, Dataproc, GKE)
+  <strong>Languages:</strong> Python, Java, JavaScript, TypeScript, Scala, C++ </br>
+  <strong>Databases:</strong> SQL (MySQL, PostgreSQL), NoSQL (MongoDB, DynamoDB, Cassandra) </br>
+  <strong>Cloud:</strong> AWS (RDS, EC2, Glue, S3, API Gateway, Lambda, ECS, EKS, SNS, SQS, Step Function), GCP (BigQuery, Dataproc, GKE) </br>
   <strong>Backend & Data Engineering:</strong> FastAPI, Django, Spring, Spring Boot, Databricks, Terraform, Snowflake, Apache Spark, Hive, Hadoop,
   Tableau, Power BI, PySpark, Kafka, Redis, Presto, Pandas, Docker, Kubernetes, dbt, Git, Airflow, Jenkins, Pytest, Shell scripts, Linux
 </p>
