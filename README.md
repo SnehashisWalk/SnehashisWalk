@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **LLM, and data ingestion pipelines for LLM use-case.**
 
-- 💬 Ask me about **Data Engineering, AWS, real-time lines**
+- 💬 Ask me about **Data Engineering, AWS, GCP, real-time data pipe lines, orchestration and cloud deployment.**
 
 - 📫 How to reach me **sashishl1996@gmail.com**
 
