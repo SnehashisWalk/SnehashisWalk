@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snehashiswalk" alt="snehashiswalk" /></a> </p>
 
-- 🌱 I’m currently learning **Tensorflow**
+- 🌱 I’m currently learning **LLM, and data ingestion pipelines for LLM use-case.**
 
-- 👨‍💻 All of my projects are available at [https://www.snehashislenka.com/](https://www.snehashislenka.com/)
+- 💬 Ask me about **Data Engineering, AWS, real-time lines**
 
-- 💬 Ask me about **React, Javascript, Node**
-
-- 📫 How to reach me **lenka.s@northeastern.edu**
+- 📫 How to reach me **sashishl1996@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
